@@ -1,4 +1,4 @@
-# Javascript Theory
+# Theory
 
 <details>
 <summary>Index</summary>
