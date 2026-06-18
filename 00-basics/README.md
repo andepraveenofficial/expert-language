@@ -5,6 +5,8 @@
 
 - Introduction
 - Programming Fundamentals
+- Types of Language
+- Compilation
 
 </details>
 
@@ -106,6 +108,47 @@
 - A class is used to create objects.
 - We can pass different data to create different objects.
 - We can create many objects from a single class.
+
+</details>
+
+---
+
+<details>
+<summary>Types of Language</summary>
+
+## Types of Language
+
+1. Dynamic
+2. Static
+
+### Dynamic
+
+- **Dynamically Typed** language, which means there is no need to declare the type of the variable when we create it.
+- A dynamically typed language itself checks and identifies the type of a variable based on the assigned value.
+- Example:
+
+1. Javascript
+2. Python
+
+### Static
+
+- In statically typed languages, we must declare the type of a variable when creating it. Otherwise, it throws an error.
+- Example:
+
+1. Typescript
+
+</details>
+
+---
+
+<details>
+<summary>Compilation</summary>
+
+## Compilation
+
+- Compilation is the process of converting code from one form to another so it can be executed.
+- Example: - Compilation is the process of converting code written in a high-level language (like TypeScript) into another form (like JavaScript) that computers or browsers can understand and run.
+- Compilation converts TypeScript (`index.ts`) code into JavaScript (`index.js`) code.
 
 </details>
 
